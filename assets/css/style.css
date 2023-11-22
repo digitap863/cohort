@@ -62,7 +62,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 14px;
   color: #848e9f;
   overflow-x: hidden;
@@ -1057,7 +1057,7 @@ h4,
 h5,
 h6 {
   color: #0e204d;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-transform: capitalize;
   font-weight: 700;
   line-height: 1.3;
@@ -3017,7 +3017,7 @@ input[type=radio] {
   color: #21cdc0;
 }
 .search-popup .search-popup__form__input {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 300;
   font-size: 35px;
   z-index: 1;
@@ -3405,7 +3405,7 @@ input[type=radio] {
   }
   .navbar .dropdown-menu.wide-dropdown-menu .dropdown-menu-title {
     color: #0e204d;
-    font-family: "Quicksand", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 17px;
     line-height: 1;
@@ -3559,7 +3559,7 @@ input[type=radio] {
   background-color: #ffffff;
 }
 .accordion-item .accordion__title {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 18px;
   cursor: pointer;
@@ -3761,7 +3761,7 @@ input[type=radio] {
 .phone__number {
   display: inline-flex;
   align-items: center;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 22px;
   line-height: 1;
@@ -3954,7 +3954,7 @@ input[type=radio] {
   background-color: #21cdc0;
 }
 .slider .cta-banner .cta__title {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .slider .cta-banner .slick-dots {
   position: static;
@@ -4922,7 +4922,7 @@ input[type=radio] {
   background-image: url(../images/icons/text-shape.png);
 }
 .testimonials__rating .total__rate {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 38px;
   font-weight: 700;
   color: #21cdc0;
@@ -5489,10 +5489,11 @@ input[type=radio] {
   color: #ffffff;
 }
 .contact-info .contact-box .phone__number {
-  font-size: 23px;
+  font-size: 22px;
   margin-top: 5px;
   font-weight: 600;
   color: #ffffff !important;
+  font-family: "Quicksand",sans-serif;
 }
 .contact-info .contact-box .phone__number .icon-phone {
   font-size: 17px;
@@ -5689,7 +5690,7 @@ textarea.form-control {
   margin-bottom: 15px;
 }
 .pricing-package .package__price {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 50px;
   font-weight: 600;
   color: #435ba1;
@@ -5931,7 +5932,7 @@ textarea.form-control {
   display: flex;
   align-items: center;
   color: #213360;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 15px;
   font-weight: 700;
   text-transform: capitalize;
@@ -5970,7 +5971,7 @@ textarea.form-control {
   padding: 22px 30px;
   text-transform: capitalize;
   border-radius: 50px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #213360;
   background-color: #ffffff;
   transition: all 0.4s ease;
@@ -6150,7 +6151,7 @@ textarea.form-control {
   line-height: 88px;
   border-radius: 10px;
   font-size: 17px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .widget-reports .btn:before {
   display: none;
@@ -6847,7 +6848,7 @@ textarea.form-control {
   background-color: #435ba1;
 }
 .doctors-timetable .event .event__header {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   display: block;
   color: #ffffff !important;
   font-size: 15px;
@@ -6858,7 +6859,7 @@ textarea.form-control {
   font-size: 13px;
 }
 .doctors-timetable .event .doctor__name {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
@@ -7136,7 +7137,7 @@ textarea.form-control {
   margin-bottom: 0;
 }
 .product__meta-details li span:first-of-type {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #0e204d;
   font-weight: 700;
   font-size: 16px;
@@ -7381,7 +7382,7 @@ textarea.form-control {
   position: absolute;
   top: 20px;
   right: 30px;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 104px;
   font-weight: 700;
   line-height: 1;
