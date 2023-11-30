@@ -64,6 +64,7 @@ body {
   background-color: #ffffff;
   font-family: 'Quicksand', sans-serif;
   font-size: 14px;
+  font-weight: 600;
   color: #848e9f;
   overflow-x: hidden;
 }
@@ -1111,6 +1112,7 @@ h6 {
 .heading__desc {
   font-size: 16px;
   margin-bottom: 0;
+  font-weight: 700;
 }
 
 .heading-layout2 .heading__title {
@@ -1221,7 +1223,7 @@ h6 {
 
 .page-title {
   padding-top: 280px;
-  padding-bottom: 220px;
+  padding-bottom: 280px;
 }
 .page-title .breadcrumb-item a,
 .page-title .breadcrumb-item.active,
@@ -4487,8 +4489,10 @@ input[type=radio] {
     margin-right: 10px;
   }
   .features-list .feature-item .feature__icon {
-    width: 40px;
-    height: 40px;
+    /* width: 40px;
+    height: 40px; */
+    width: 50px;
+    height: 50px;
     font-size: 20px;
   }
   .features-list .feature-item .feature__title {
@@ -4515,6 +4519,7 @@ input[type=radio] {
 }
 .fancybox-item .fancybox__desc {
   margin-bottom: 0;
+  color: #0e204d;
 }
 .fancybox-item .fancybox__icon,
 .fancybox-item .fancybox__title,
